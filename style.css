@@ -1,5 +1,9 @@
 * {box-sizing: border-box;}
 
+.container {
+    margin-top: 3rem;
+}
+
 .header {
   overflow: hidden;
   background-color: #100953;
@@ -33,6 +37,7 @@
 .header-right {
     float: right;
 }
+
 
 @media screen and (max-width: 500px) {
   .header a {
