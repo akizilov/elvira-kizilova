@@ -38,6 +38,11 @@
     float: right;
 }
 
+footer {
+    background-color: #100953;
+    color: #ddd;
+    text-align: center;
+}
 
 @media screen and (max-width: 500px) {
   .header a {
