@@ -4,3 +4,15 @@
     height: 368px;
     margin-left: 2rem;
 }
+#CV-button {
+    margin-top: 6rem;
+    margin-bottom: 5.1rem;
+}
+
+
+@media screen and (max-width:767px) {
+  #profile-pic {
+    float: none;
+    margin-bottom: 2rem;
+  }
+}
