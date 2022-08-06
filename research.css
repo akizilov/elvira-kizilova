@@ -36,6 +36,10 @@
       float: right;
   }
   
+  #figure {
+    width: 790px;
+    height: 500px;
+  }
   @media screen and (max-width: 500px) {
     .header a {
       float: none;
