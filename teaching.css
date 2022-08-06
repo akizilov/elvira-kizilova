@@ -36,7 +36,18 @@
 .header-right {
     float: right;
 }
-
+.row {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.courses {
+  border: solid;
+  border-width: 1px;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
@@ -46,5 +57,13 @@
   
   .header-right {
     float: none;
+  }
+}
+@media screen and (max-width:993px) {
+  .courses {
+    margin-bottom: 2rem;
+  }
+  .row {
+    margin-bottom: 0;
   }
 }
