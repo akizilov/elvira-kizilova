@@ -1,4 +1,3 @@
-
 .header a.active {
   background-color: white;
   color: #100953;
@@ -47,6 +46,9 @@
   border-width: 1px;
   padding-bottom: 1rem;
   padding-top: 1rem;
+}
+.titles {
+  margin-top: 1rem;
 }
 @media screen and (max-width: 500px) {
   .header a {
