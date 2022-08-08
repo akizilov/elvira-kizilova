@@ -1,3 +1,4 @@
+
 .header a.active {
   background-color: white;
   color: #100953;
@@ -49,6 +50,9 @@
 }
 .titles {
   margin-top: 1rem;
+}
+.course-title {
+  font-weight: bold;
 }
 @media screen and (max-width: 500px) {
   .header a {
