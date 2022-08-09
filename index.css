@@ -14,5 +14,6 @@
   #profile-pic {
     float: none;
     margin-bottom: 2rem;
+    margin-left: 0;
   }
 }
