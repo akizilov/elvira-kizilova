@@ -20,6 +20,11 @@
   border-radius: 4px;
 }
 
+.header a.active {
+    background-color: white;
+    color: #100953;
+}
+
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
