@@ -20,11 +20,6 @@
   border-radius: 4px;
 }
 
-.header a.active {
-    background-color: white;
-    color: #100953;
-}
-
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
@@ -47,9 +42,6 @@ footer {
     background-color: #100953;
     color: #ddd;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    width:100%
 }
 
 @media screen and (max-width: 500px) {
