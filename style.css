@@ -42,6 +42,8 @@ footer {
     background-color: #100953;
     color: #ddd;
     text-align: center;
+    position:absolute;
+    bottom:0;
 }
 
 @media screen and (max-width: 500px) {
