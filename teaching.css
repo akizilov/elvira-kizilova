@@ -17,6 +17,12 @@
 .course-title {
   font-weight: bold;
 }
+.bubble {
+  border:solid;
+  border-radius:30px;
+  padding:1rem;
+  background-color:#c1cfe8;
+}
 @media screen and (max-width:993px) {
   .courses {
     margin-bottom: 2rem;
